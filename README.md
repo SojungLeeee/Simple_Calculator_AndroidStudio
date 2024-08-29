@@ -1,4 +1,5 @@
 https://sojung118.tistory.com/12
+---------------------------------------
 https://sojung118.tistory.com/13
 
 tistory 내용을 참고하세요.
@@ -12,7 +13,10 @@ tistory 내용을 참고하세요.
 6. focus 된 EditText 찾기
 7. focus 된 EditText 초기화 시키기
 
+   
+
 [계산기 실행 화면]
+
 ![image](https://github.com/user-attachments/assets/f2295bf1-a6e0-4062-b098-c41581f56f2a)
 
 
