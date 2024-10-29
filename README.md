@@ -5,7 +5,7 @@ https://sojung118.tistory.com/13
 
 tistory 내용을 참고하세요.
 
-[구현 목록]
+## [구현 목록]
 1. 덧셈
 2. 뺄셈
 3. 곱셈
@@ -17,7 +17,7 @@ tistory 내용을 참고하세요.
    
 
 
-[계산기 실행 화면]
+## [계산기 실행 화면]
 
 ![image](https://github.com/user-attachments/assets/f2295bf1-a6e0-4062-b098-c41581f56f2a)
 
