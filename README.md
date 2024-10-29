@@ -1,18 +1,18 @@
-https://sojung118.tistory.com/12
+[TISTORY_참고1](https://sojung118.tistory.com/12)
 ---------------------------------------
-https://sojung118.tistory.com/13
+[TISTORY_참고2](https://sojung118.tistory.com/13)
 ---------------------------------------
 
-tistory 내용을 참고하세요.
+자세한 내용은 tistory 내용을 참고하세요.
 
 ## [구현 목록]
-1. 덧셈
-2. 뺄셈
-3. 곱셈
-4. 나눗셈
-5. %로 나머지 구하기
-6. focus 된 EditText 찾기
-7. focus 된 EditText 초기화 시키기
+* 덧셈
+* 뺄셈
+* 곱셈
+* 나눗셈
+* %로 나머지 구하기
+* focus 된 EditText 찾기
+* focus 된 EditText 초기화 시키기
 
    
 
